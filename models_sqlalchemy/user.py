@@ -1,6 +1,4 @@
-"""
-User model with SQLAlchemy
-"""
+
 from . import db, TimestampMixin
 from werkzeug.security import generate_password_hash, check_password_hash
 
