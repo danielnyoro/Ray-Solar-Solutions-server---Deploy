@@ -1,6 +1,4 @@
-"""
-All SQLAlchemy models for the application
-"""
+
 from . import db, TimestampMixin
 import random
 import string
