@@ -1,5 +1,5 @@
 """
-SQLAlchemy database configuration and base models
+SQLAlchemy database config and base models for project
 """
 from flask_sqlalchemy import SQLAlchemy
 from datetime import datetime
